@@ -1,0 +1,25 @@
+{
+  "name": "pat2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surendra9129/PAT2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surendra9129/PAT2/issues"
+  },
+  "homepage": "https://github.com/Surendra9129/PAT2#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
